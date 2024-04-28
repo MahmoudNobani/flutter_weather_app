@@ -1,4 +1,4 @@
-# flutter_MusicPlayer
+# flutter_WeatherApp
 weather app using flutter
 
 demos:
